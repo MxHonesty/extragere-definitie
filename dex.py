@@ -30,5 +30,3 @@ class Dictionar:
         definitie = return_def(pagina)
         return definitie
 
-dict = Dictionar()
-print(dict.fetch_definition("Test"))
